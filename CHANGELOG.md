@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.9.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.9.1) —— 支持 7z 等压缩包
+
+补丁版：从 Nexus 下载的 7z 压缩包现在能被识别并安装。之前只认 zip，7z 下载完成后程序一直没反应。
+
 ## [v1.9.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.9.0) —— 状态栏消息分级
 
 次版本：状态栏不再永久停留最后一条普通操作提示。普通提示和成功反馈会自动收起，警告、错误和进行中的操作继续保留。

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.10.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.10.1) —— 修复推荐页/搜索页翻译完成后不刷新
+
+补丁版：自动补全中文名的结果要等到翻页或重新搜索才出现。现在完成的那一刻就会显示。
+
 ## [v1.10.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.10.0) —— 体检能修了，也能看游戏真正报了什么
 
 这是这一轮最大的一次功能升级：体检从"只查"变成"能修"，并接上了游戏自己的日志。

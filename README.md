@@ -1,6 +1,6 @@
 # sdvmm · 星露谷物语模组管理器
 
-Windows 上管理《星露谷物语》SMAPI 模组的工具：扫描、启用/停用、安装、卸载、检查更新、体检、搜索与中文名。
+Windows 上管理《星露谷物语》SMAPI 模组的工具：扫描、启用/停用、安装、卸载、检查更新、体检与修复、运行时日志、搜索与中文名。
 
 > 本仓库只用于**分发发布包**（源代码不公开）。下载请到
 > [Releases](https://github.com/autism-0626/Sdvmm_Release/releases) 页面。
@@ -22,7 +22,7 @@ Windows 上管理《星露谷物语》SMAPI 模组的工具：扫描、启用/�
 每个 Release 都附一份 `SHA256SUMS.txt`。下载后核对：
 
 ```powershell
-Get-FileHash .\sdvmm-1.9.0-win-x64.exe -Algorithm SHA256
+Get-FileHash .\sdvmm-<版本>-win-x64.exe -Algorithm SHA256
 ```
 
 和文件里那一行比对即可。也可以在 Releases 页面直接看 GitHub 为每个资产计算的 SHA256。
@@ -41,7 +41,8 @@ Get-FileHash .\sdvmm-1.9.0-win-x64.exe -Algorithm SHA256
 | 卸载 | 移到 `Mods.removed` 隔离区（带时间戳），`--purge` 才真删 |
 | 安装 | 拖入 zip 即可，装前校验整包，重复安装会被拒绝 |
 | 检查更新 | GitHub 的模组可全程免浏览器；Nexus 的会打开下载页并监控下载目录 |
-| 体检 | 查重复 UniqueID、缺前置、缺 DLL、依赖环 |
+| 体检 | 静态检查（重复 UniqueID、缺前置、缺 DLL）+ 运行时日志分析（游戏真的跳过了谁、异常、被改的内容文件）|
+| 修复 | 可逆修复：启用被停用的前置、从 GitHub 自动补前置、把坏模组移进回收站；修完还会核对日志验证 |
 | 搜索 | 本地已装 + SMAPI 清单 + Nexus 三路合并，支持按 Nexus 数字 ID 搜 |
 | 中文名 | 打开即显示中文名，查不到时自动翻译并写回对照表，之后离线可用 |
 | 模组组 | 把一组模组存成清单，压缩成一串口令发给别人，导入后自动补齐缺的 |

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.2](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.2) —— 更新窗口不再撑满屏幕
+
+补丁版：检查更新时弹出的窗口太大，长一点的更新说明能把窗口撑到半屏。现在是固定尺寸，
+
 ## [v1.12.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.1) —— 更新弹窗只说重点
 
 补丁版：v1.12.0 的更新弹窗会把整篇更新说明塞进去（表格、代码块、Markdown 标记全在），

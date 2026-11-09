@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.0) —— 程序自己也能更新了
+
+新功能：工具会检查自己的新版本，下载、校验、替换、重启一条龙，不用再手动去 Downloads 找新版。
+
 ## [v1.11.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.11.0) —— 只允许运行一个实例
 
 新功能：重复启动不会开出第二个窗口，而是把已经在运行的窗口带到前台（在托盘里也一样）。

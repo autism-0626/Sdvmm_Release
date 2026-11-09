@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.1) —— 更新弹窗只说重点
+
+补丁版：v1.12.0 的更新弹窗会把整篇更新说明塞进去（表格、代码块、Markdown 标记全在），
+
 ## [v1.12.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.0) —— 程序自己也能更新了
 
 新功能：工具会检查自己的新版本，下载、校验、替换、重启一条龙，不用再手动去 Downloads 找新版。

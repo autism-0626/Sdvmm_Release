@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.15.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.15.0) —— 操作记录分级：界面只显示重点，细节全进文件
+
+以前窗口里的"操作记录"和文件里的 `session.log` 是同一份东西：安装一个模组会刷出五行，
+
 ## [v1.14.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.14.0) —— 装完模组立刻提示缺前置，能自动的当场补齐
 
 以前装完模组只显示"已安装"，缺前置要等你自己去体检页发现。现在安装结束就检查。

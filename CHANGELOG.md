@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.18.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.18.0) —— 批量更新进度、托盘快捷菜单、体检导出
+
+三项体验收尾，之前 backlog 的 A3–A5。
+
 ## [v1.17.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.17.0) —— 模组配置编辑（config.json）
 
 新功能：菜单「模组 → 模组配置…」把已安装模组的 `config.json` 列出来，选中就能改。

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.16.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.16.0) —— 下载留档自动清理 + GitHub 额度提前提示
+
+两项后台小功能，都属于"长期用才疼"的问题。
+
 ## [v1.15.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.15.1) —— 体检表：手动项可直接打开下载页，「—」改成有意义的说明
 
 补丁版：体检里标着"手动"的行以前没法点，只能自己去找页面；还有一大片行显示"—"，

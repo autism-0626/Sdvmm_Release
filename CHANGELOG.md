@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.13.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.13.1) —— 不再把"只有源码的 GitHub 仓库"当成能自动下载
+
+补丁版：体检能查出缺前置，修复按钮也列出来了，但其中几个下载会失败：
+
 ## [v1.13.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.13.0) —— 语言包（i18n 翻译包）可以直接装了
 
 新功能：像 `Ridgeside Village chinese-9247-2-5-17-1732449848.zip` 这种**没有 `manifest.json`、

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.4](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.4) —— 自动升级时能看到进度
+
+补丁版：程序自动更新时原来只有一句状态栏文字，下载几十 MB 期间看不出到底在动没动。
+
 ## [v1.12.3](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.3) —— 修复 Nexus 索引更新失败（422）
 
 补丁版：启动时那条 `Nexus 索引更新失败：查询参数被拒绝` 是 Nexus 把搜索接口 v3 改了，

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.13.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.13.0) —— 语言包（i18n 翻译包）可以直接装了
+
+新功能：像 `Ridgeside Village chinese-9247-2-5-17-1732449848.zip` 这种**没有 `manifest.json`、
+
 ## [v1.12.7](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.7) —— 更新后文件名跟版本走，旧文件彻底删除
 
 补丁版：之前自动更新会**保留旧文件名**（`sdvmm-1.12.6-win-x64.exe` 里装着 1.12.7 的版本），

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.5](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.5) —— 升级进度条：带百分比，且不会被提示挡住
+
+补丁版：v1.12.4 加上了进度条，但发现两个问题，这次一起修：
+
 ## [v1.12.4](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.4) —— 自动升级时能看到进度
 
 补丁版：程序自动更新时原来只有一句状态栏文字，下载几十 MB 期间看不出到底在动没动。

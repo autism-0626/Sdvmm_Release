@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.7](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.7) —— 更新后文件名跟版本走，旧文件彻底删除
+
+补丁版：之前自动更新会**保留旧文件名**（`sdvmm-1.12.6-win-x64.exe` 里装着 1.12.7 的版本），
+
 ## [v1.12.6](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.6) —— 修复：下载好的版本名 exe 无法自动替换
 
 补丁版：从发布页下载的文件名是 `sdvmm-1.12.2-win-x64.exe`，自动更新却提示

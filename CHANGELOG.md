@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.17.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.17.0) —— 模组配置编辑（config.json）
+
+新功能：菜单「模组 → 模组配置…」把已安装模组的 `config.json` 列出来，选中就能改。
+
 ## [v1.16.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.16.0) —— 下载留档自动清理 + GitHub 额度提前提示
 
 两项后台小功能，都属于"长期用才疼"的问题。

@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.14.0](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.14.0) —— 装完模组立刻提示缺前置，能自动的当场补齐
+
+以前装完模组只显示"已安装"，缺前置要等你自己去体检页发现。现在安装结束就检查。
+
 ## [v1.13.1](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.13.1) —— 不再把"只有源码的 GitHub 仓库"当成能自动下载
 
 补丁版：体检能查出缺前置，修复按钮也列出来了，但其中几个下载会失败：

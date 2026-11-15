@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.3](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.3) —— 修复 Nexus 索引更新失败（422）
+
+补丁版：启动时那条 `Nexus 索引更新失败：查询参数被拒绝` 是 Nexus 把搜索接口 v3 改了，
+
 ## [v1.12.2](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.2) —— 更新窗口不再撑满屏幕
 
 补丁版：检查更新时弹出的窗口太大，长一点的更新说明能把窗口撑到半屏。现在是固定尺寸，

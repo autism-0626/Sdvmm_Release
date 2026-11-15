@@ -2,6 +2,10 @@
 
 每个版本的详细说明见对应的 Release 页面。
 
+## [v1.12.6](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.6) —— 修复：下载好的版本名 exe 无法自动替换
+
+补丁版：从发布页下载的文件名是 `sdvmm-1.12.2-win-x64.exe`，自动更新却提示
+
 ## [v1.12.5](https://github.com/autism-0626/Sdvmm_Release/releases/tag/v1.12.5) —— 升级进度条：带百分比，且不会被提示挡住
 
 补丁版：v1.12.4 加上了进度条，但发现两个问题，这次一起修：
